@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Cztery Pory Śmierci
+description: |
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+
+owner: Your Name # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/<username>
+  facebook-official: https://facebook.com/<username>
+  email: dsad@yourdomain.com
+  instagram: http://yourdomain.com
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed

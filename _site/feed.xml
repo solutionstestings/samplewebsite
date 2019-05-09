@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cztery Pory Śmierci</title>
+    <description>
+[...]Amadeusz zdążył zagrać kawałek allegro, kiedy usłyszał że coś jest nie 
+tak. Krzyżczak grał swoją solówkę, ale coraz bardziej zwalniał, aż w końcu 
+przestał grać i popatrzył na zaskoczoną publiczność. Westchnął głęboko, 
+rzekł:
+
+- Nienawidzę Vivaldiego.
+
+I padł nieżywy na scenę.
+</description>
+    <link>http://192.168.123.123:80/</link>
+    <atom:link href="http://192.168.123.123:80/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 May 2019 18:26:20 +0000</pubDate>
+    <lastBuildDate>Thu, 09 May 2019 18:26:20 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+  </channel>
+</rss>
